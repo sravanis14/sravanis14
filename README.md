@@ -1,6 +1,6 @@
  👋 Hi, I’m sravani, and graduate in Biomedical Engineering from Indian Institute of Technology Madras.
  I am passionate and enthusiastic about Machine learning, Deep Learning and Computer Vision.
- I have participated in various Kaggle competitions
+ I have also participated in various Kaggle competitions
 
 🚀💻 Technologies & Tools
 
