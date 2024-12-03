@@ -4,7 +4,7 @@
 
 🚀💻 Technologies & Tools
 
-          Languages - PYTHON, C, R, MATLAB
+          Languages - PYTHON, C, R, MATLAB, SQL
 
           Libraries - OpenCV, Keras, TensorFlow, PyTorch, NumPy, Pandas, scikit-learn, SciPy
   
